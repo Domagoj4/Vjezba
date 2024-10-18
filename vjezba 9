@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div>
+            <video width="400" height="300" controls autoplay muted poster>
+                <source src="https://youtu.be/LvkYTZIa1mg" type="imprezavideo">
+                Your video does not support the video tag
+        </div>
+
+        <div>
+            <video width="400" height="300" controls autoplay muted poster="Subaruindeks.html">
+                <source src="slika1" type="subaruslika">
+                Your video does not support the video tag
+        </div>
+    </body>
+</html>
